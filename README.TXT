@@ -1,3 +1,5 @@
+FORKED FROM ORIGINAL:
+
 InkShield README.TXT
 Copyright 2011, Nicholas C Lewis
 http://nicholasclewis.com/inkshield/
